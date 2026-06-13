@@ -21,17 +21,23 @@ ${input:Paste your code snippet here}
 **1. [Most Important]**
 - **Issue:** [What's wrong]
 - **Fix:**
-  [Corrected code]
+```
+[Corrected code]
+```
 
 **2. [Second Priority]**
 - **Issue:** [What's wrong]
 - **Fix:**
+```
 [Corrected code]
+```
 
 **3. [Nice to Have]**
 - **Issue:** [What's wrong]
 - **Fix:**
+```
 [Corrected code]
+```
 
 ---
 
